@@ -1,3 +1,11 @@
+Favorite Movies
+--------------------
 first movie
 Second Movie
 Third Movie
+Favorite Foods
+---------------------
+Samosa
+Swarama Roll
+Chicken Manchurian
+
